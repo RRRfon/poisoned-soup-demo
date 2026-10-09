@@ -1,4 +1,4 @@
-name: Publish prototype website
+name: Publish playable demo website
 on:
   push:
     branches: [main]
